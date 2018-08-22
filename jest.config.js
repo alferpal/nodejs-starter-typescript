@@ -9,7 +9,7 @@ module.exports = {
       tsConfigFile: 'tsconfig.json'
     }
   },
-coverageThreshold: {
+  coverageThreshold: {
     global: {
       branches: 80,
       functions: 80,
