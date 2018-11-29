@@ -34,7 +34,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/chai": "~4.1.7",
-    "@types/jest": "~23.3.9",
+    "@types/jest": "~23.3.10",
     "chai": "~4.2.0",
     "commitizen": "~3.0.5",
     "concurrently": "~4.1.0",
