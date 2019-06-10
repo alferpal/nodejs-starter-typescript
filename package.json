@@ -50,7 +50,7 @@
     "tslint-config-airbnb": "~5.11.1",
     "typescript": "~3.5.1",
     "weallbehave": "~1.2.0",
-    "weallcontribute": "~1.0.8"
+    "weallcontribute": "~1.0.9"
   },
   "private": true,
   "config": {
