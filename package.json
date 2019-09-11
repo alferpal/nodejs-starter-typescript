@@ -53,7 +53,7 @@
     "rimraf": "~3.0.0",
     "standard-version": "~7.0.0",
     "ts-jest": "~24.0.2",
-    "typescript": "~3.6.2",
+    "typescript": "~3.6.3",
     "weallbehave": "~1.2.0",
     "weallcontribute": "~1.0.9"
   },
