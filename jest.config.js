@@ -1,5 +1,7 @@
 'use strict'
 
+const { name } = require('./package')
+
 module.exports = {
   bail: true,
   collectCoverage: true,
@@ -13,6 +15,7 @@ module.exports = {
       statements: 100
     },
   },
+  displayName: name,
   globals: {
     'ts-jest': {
       tsConfig: 'test/tsconfig.json'
@@ -22,6 +25,7 @@ module.exports = {
     'ts',
     'js'
   ],
+  name,
   preset: 'ts-jest',
   projects: [
     'packages/*'
