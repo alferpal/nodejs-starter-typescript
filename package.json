@@ -37,7 +37,7 @@
     "@typescript-eslint/eslint-plugin": "~1.13.0",
     "@typescript-eslint/parser": "~1.13.0",
     "commitizen": "~4.0.4",
-    "concurrently": "~5.1.0",
+    "concurrently": "~5.2.0",
     "cz-conventional-changelog": "~3.1.0",
     "eslint": "~6.8.0",
     "eslint-config-airbnb-typescript": "~6.2.0",
