@@ -6,5 +6,8 @@ updates:
     interval: daily
     time: "08:16"
     timezone: Etc/UCT
-  open-pull-requests-limit: 99
+  labels:
+    - "automerge"
+    - "dependencies"
+  open-pull-requests-limit: 64
   versioning-strategy: increase

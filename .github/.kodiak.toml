@@ -1,0 +1,7 @@
+version = 1
+
+[merge]
+method = "squash"
+
+[update]
+always = true
