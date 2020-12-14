@@ -30,7 +30,7 @@
     "twitter": "alferpal",
     "url": "https://github.com/alferpal"
   },
-  "license": "MIT",
+  "license": "Parity-7.0.0",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "~26.0.19",
