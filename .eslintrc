@@ -3,17 +3,28 @@
     "node": true
   },
   "extends": [
-    "airbnb-typescript/base"
+    "airbnb-typescript/base",
+    "plugin:jest/all",
+    "plugin:node/recommended"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "ecmaVersion": 2019,
-    "sourceType": "module"
+    "ecmaVersion": 2020,
+    "project": "tsconfig-base.json",
+    "sourceType": "script"
   },
   "plugins": [
-    "@typescript-eslint/eslint-plugin"
+    "@typescript-eslint/eslint-plugin",
+    "jest",
+    "node"
   ],
   "rules": {
+    "@typescript-eslint/no-use-before-define": [
+      "error",
+      {
+        "functions": false
+      }
+    ],
     "@typescript-eslint/semi": [
       "error",
       "never"
@@ -26,11 +37,14 @@
         "max": 1
       }
     ],
+    "no-return-await": "off",
     "no-use-before-define": [
       "error",
       {
         "functions": false
       }
     ],
+    "node/no-unsupported-features/es-syntax": "off",
+    "node/no-missing-import": "off"
   }
 }
