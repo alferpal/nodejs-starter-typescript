@@ -34,7 +34,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "~26.0.24",
-    "@typescript-eslint/eslint-plugin": "~4.28.2",
+    "@typescript-eslint/eslint-plugin": "~4.28.3",
     "@typescript-eslint/parser": "~4.28.2",
     "commitizen": "~4.2.4",
     "concurrently": "~6.2.0",
