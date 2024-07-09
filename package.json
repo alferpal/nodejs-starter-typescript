@@ -50,7 +50,7 @@
     "onchange": "~7.1.0",
     "rimraf": "~5.0.8",
     "standard-version": "~9.5.0",
-    "ts-jest": "~29.1.5",
+    "ts-jest": "~29.2.0",
     "typescript": "~5.5.3",
     "weallbehave": "~1.2.0",
     "weallcontribute": "~1.0.9"
