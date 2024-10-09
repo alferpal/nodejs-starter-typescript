@@ -51,7 +51,7 @@
     "rimraf": "~6.0.1",
     "standard-version": "~9.5.0",
     "ts-jest": "~29.2.5",
-    "typescript": "~5.6.2",
+    "typescript": "~5.6.3",
     "weallbehave": "~1.2.0",
     "weallcontribute": "~1.0.9"
   },
