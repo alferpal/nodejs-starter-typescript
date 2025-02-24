@@ -40,7 +40,7 @@
     "concurrently": "~9.1.2",
     "cz-conventional-changelog": "~3.3.0",
     "eslint": "~9.21.0",
-    "eslint-config-airbnb-typescript": "~14.0.2",
+    "eslint-config-airbnb-typescript": "~18.0.0",
     "eslint-plugin-import": "~2.31.0",
     "eslint-plugin-jest": "~28.11.0",
     "eslint-plugin-node": "~11.1.0",
